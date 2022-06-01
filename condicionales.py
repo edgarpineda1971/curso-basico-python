@@ -17,8 +17,8 @@ edad = int(input("Introduce tu edad "))
 if edad >= 18 and edad <= 100 :
     print("Bienvenido al mamitas")
 elif edad > 100 :
-    print("Si vienes acompañado de tus abulitos, si te podemos fiar")
+    print("Si vienes acompañado de tus abuelitos, si te podemos fiar")
 elif edad < 0 :
-    print("Ni que fueras viajero del timepo")
+    print("Ni que fueras viajero del tiempo")
 else :
     print("No puedes llevarte esos cigarros")
