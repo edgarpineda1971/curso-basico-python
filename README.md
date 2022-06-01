@@ -3,7 +3,7 @@
 
 En este curso aprenderás a programar en Python.
 
-![Logo de Python](imagenes\Logo Python.jpg)
+![Logo de Python]([imagenes\Logo Python.jpg](https://github.com/edgarpineda1971/curso-basico-python/blob/main/imagenes/Logo%20Python.jpg))
 
 **Requisitos**
 - Python 3.6 o superior
